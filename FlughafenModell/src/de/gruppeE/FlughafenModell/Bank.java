@@ -4,6 +4,8 @@ import java.io.IOException;
 
 public class Bank {
 
+String str;	
+	
 	public Bank() throws IOException {
 
 	}
